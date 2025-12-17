@@ -1,7 +1,7 @@
 {
   "name": "marketing-skills",
   "version": "1.0.0",
-  "description": "10 specialized marketing skills: brand voice, positioning, content strategy, copywriting, and distribution. From thevibemarketer.com methodology.",
+  "description": "10 specialized marketing skills: brand voice, positioning, content strategy, copywriting, and distribution.",
   "author": {
     "name": "Vidal Graupera"
   },
@@ -17,5 +17,6 @@
     "lead-generation",
     "direct-response",
     "vibe-marketing"
-  ]
+  ],
+  "skills": "./skills"
 }
