@@ -1,0 +1,33 @@
+{
+  "name": "marketing-skills",
+  "owner": {
+    "name": "Vidal Graupera",
+    "email": "vidal@salesably.ai"
+  },
+  "metadata": {
+    "description": "Marketing skills for Claude Code inspired on The Vibe Marketer methodology",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "marketing-skills",
+      "source": "./marketing-skills",
+      "description": "10 specialized marketing skills: brand voice, positioning, content strategy, copywriting, and distribution.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Vidal Graupera"
+      },
+      "homepage": "https://salesably.ai",
+      "license": "MIT",
+      "keywords": [
+        "marketing",
+        "copywriting",
+        "content-strategy",
+        "brand-voice",
+        "seo",
+        "email-marketing"
+      ],
+      "category": "marketing"
+    }
+  ]
+}

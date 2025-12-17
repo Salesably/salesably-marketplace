@@ -1,0 +1,119 @@
+---
+name: brand-voice
+description: Defines and maintains consistent brand communication across all marketing materials. This skill should be used when creating new marketing content, auditing existing materials for voice consistency, onboarding team members to brand guidelines, or when content sounds generic or "off-brand."
+---
+
+# Brand Voice
+
+This skill creates distinctive, consistent brand voice guidelines that ensure every piece of marketing content sounds authentically like the brand—not generic AI output.
+
+## Objective
+
+Define a memorable brand voice that differentiates from competitors and resonates with the target audience, then apply it consistently across all marketing touchpoints.
+
+## Intake Questions
+
+Before defining or applying brand voice, gather this context:
+
+1. **Existing materials**: Are there any current brand guidelines, previous marketing pieces, or content that represents the desired voice?
+2. **Industry/category**: What space does the brand operate in? What do competitors sound like?
+3. **Target audience**: Who is the brand speaking to? What's their sophistication level, pain points, aspirations?
+4. **Brand personality**: If the brand were a person, how would they act at a party? Formal speaker? Witty friend? Wise mentor?
+5. **Differentiators**: What makes this brand different from every other option?
+
+## The Four Voice Dimensions
+
+Score the brand on each dimension (1-5 scale) to create a voice profile:
+
+### 1. Funny ←→ Serious (1-5)
+- **1 (Funny)**: Humor, wit, playfulness, doesn't take itself too seriously
+- **5 (Serious)**: Professional, authoritative, gravitas, weighty topics
+
+### 2. Formal ←→ Casual (1-5)
+- **1 (Formal)**: Proper grammar, sophisticated vocabulary, structured
+- **5 (Casual)**: Conversational, contractions, slang-friendly, relaxed
+
+### 3. Respectful ←→ Irreverent (1-5)
+- **1 (Respectful)**: Polite, considerate, diplomatic, cautious
+- **5 (Irreverent)**: Bold, provocative, challenges conventions, edgy
+
+### 4. Enthusiastic ←→ Matter-of-fact (1-5)
+- **1 (Enthusiastic)**: Energetic, exclamation points, superlatives, passionate
+- **5 (Matter-of-fact)**: Understated, factual, lets results speak, dry
+
+**Example Profile**: "Mailchimp: Funny (2), Casual (4), Irreverent (3), Enthusiastic (2)"
+
+## This-But-Not-That Framework
+
+Define boundaries with concrete examples:
+
+| We Are | We Are NOT |
+|--------|------------|
+| Confident | Arrogant |
+| Direct | Blunt or rude |
+| Witty | Sarcastic or mean |
+| Expert | Condescending |
+| Friendly | Unprofessional |
+| Bold | Reckless |
+| Helpful | Preachy |
+
+**Template**: "We're [positive trait], not [negative extreme]. We're [another trait], not [its extreme]."
+
+## Vocabulary Guidelines
+
+### Words We Use
+- List 10-20 signature words/phrases that embody the brand
+- Include industry terms the brand owns or uses distinctively
+- Note preferred terminology (e.g., "customers" vs "clients" vs "users")
+
+### Words We Avoid
+- Generic corporate speak: "leverage," "synergy," "best-in-class"
+- Competitor language they own
+- Overly complex jargon when simpler words work
+- Weak qualifiers: "kind of," "sort of," "maybe"
+
+### Jargon Policy
+- Define when technical terms are appropriate
+- Specify whether to explain jargon or assume audience knowledge
+
+## Channel Adaptations
+
+Voice stays consistent; tone flexes by channel:
+
+| Channel | Tone Adjustment | Example |
+|---------|-----------------|---------|
+| Website | Most polished, balanced | Full voice profile |
+| Email | Warmer, more personal | +1 casual, +1 friendly |
+| Social | Most casual, reactive | +2 casual, context-dependent humor |
+| Support | Most empathetic, helpful | +1 respectful, solution-focused |
+| Sales | Confident, consultative | +1 serious, benefit-focused |
+
+## Quick Voice Audit Checklist
+
+Run content through these checks:
+
+- [ ] **Dimension check**: Does it match our 4-dimension scores?
+- [ ] **This-not-that**: Does it stay on the right side of each boundary?
+- [ ] **Vocabulary**: Using our words, avoiding banned terms?
+- [ ] **Distinctiveness**: Could a competitor have written this?
+- [ ] **Audience fit**: Would our target audience relate to this?
+- [ ] **Channel appropriate**: Right tone for this medium?
+- [ ] **Read aloud**: Does it sound like a human we'd want to talk to?
+
+## Output Format
+
+When creating brand voice guidelines, produce:
+
+1. **Voice Profile Card**: 4-dimension scores with brief rationale
+2. **This-But-Not-That Table**: 6-10 boundary pairs
+3. **Vocabulary Guide**: Words to use, words to avoid, jargon policy
+4. **Channel Tone Guide**: Adjustments per major channel
+5. **Before/After Examples**: 3-5 rewrites showing voice applied
+
+## Cross-References
+
+- Apply brand voice when using `direct-response-copy` for landing pages
+- Ensure `seo-content` maintains voice while optimizing for search
+- Use voice guide when creating `newsletter` content
+- Voice consistency applies across all `email-sequences`
+- `content-atomizer` should maintain voice when repurposing across formats
