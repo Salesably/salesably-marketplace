@@ -1,0 +1,37 @@
+{
+  "$schema": "https://anthropic.com/schemas/mcp-config.json",
+  "mcpServers": {
+    "perplexity": {
+      "command": "npx",
+      "args": ["-y", "@anthropic/mcp-server-perplexity"],
+      "env": {
+        "PERPLEXITY_API_KEY": "${PERPLEXITY_API_KEY}"
+      },
+      "disabled": true
+    },
+    "exa": {
+      "command": "npx",
+      "args": ["-y", "exa-mcp-server"],
+      "env": {
+        "EXA_API_KEY": "${EXA_API_KEY}"
+      },
+      "disabled": true
+    },
+    "apify": {
+      "command": "npx",
+      "args": ["-y", "@anthropic/mcp-server-apify"],
+      "env": {
+        "APIFY_API_TOKEN": "${APIFY_API_TOKEN}"
+      },
+      "disabled": true
+    },
+    "hunter": {
+      "command": "npx",
+      "args": ["-y", "@anthropic/mcp-server-fetch"],
+      "env": {
+        "HUNTER_API_KEY": "${HUNTER_API_KEY}"
+      },
+      "disabled": true
+    }
+  }
+}

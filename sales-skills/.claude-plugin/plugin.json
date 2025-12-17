@@ -1,0 +1,21 @@
+{
+  "name": "sales-skills",
+  "version": "1.0.0",
+  "description": "9 specialized sales skills: deal qualification, prospect research, call preparation, and stakeholder engagement.",
+  "author": {
+    "name": "Vidal Graupera"
+  },
+  "homepage": "https://salesably.ai",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "prospecting",
+    "deal-qualification",
+    "cold-calling",
+    "follow-up",
+    "account-research",
+    "stakeholder-engagement",
+    "sales-intelligence"
+  ],
+  "skills": "./skills"
+}

@@ -1,8 +1,14 @@
 # Marketing Skills Plugin
 
-10 specialized marketing skills based on [The Vibe Marketer](https://thevibemarketer.com) methodology. From brand foundations to content distribution—everything you need for modern marketing execution.
+**Marketing that actually moves the needle.**
+
+Stop churning out generic content. These 10 skills transform Claude into your strategic marketing partner—building brand foundations, crafting copy that converts, and distributing content that compounds.
+
+Built on proven frameworks used to build audiences and drive revenue for modern businesses.
 
 **Built by [Salesably.ai](https://salesably.ai)** — AI-powered sales and marketing tools for modern teams.
+
+> **Inspired by [The Vibe Marketer](https://thevibemarketer.com)** — check them out for more marketing insights and strategies.
 
 ## Installation
 
@@ -137,7 +143,7 @@ These skills are designed to be:
 
 ## Author
 
-Created by [Vidal Graupera](https://salesably.ai) based on [The Vibe Marketer](https://thevibemarketer.com) methodology.
+Created by [Vidal Graupera](https://salesably.ai) for modern marketing teams.
 
 ## More AI Tools
 
