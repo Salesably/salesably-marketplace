@@ -10,6 +10,13 @@ Turn Claude into a seasoned sales strategist and marketing expert. These plugins
 
 Built by [Salesably.ai](https://salesably.ai).
 
+## What is Claude Code?
+
+**Salesably Marketplace** is built specifically for **Claude Code**, Anthropic's agentic command-line interface (CLI) that lives where you work. It allows Claude to interact directly with your file system, run terminal commands, and use specialized skills to help you build better.
+
+- **If you don't have Claude Code yet:** [Follow the official installation guide](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) to get started.
+- **Why use these plugins?** While Claude is naturally smart, these plugins provide the "industry-standard scripts" and strategic frameworks that ensure its output matches the quality of a top-tier sales or marketing professional.
+
 ## Available Plugins
 
 | Plugin | Description |

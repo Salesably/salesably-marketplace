@@ -10,6 +10,12 @@ Built on proven methodologies including the POWERFUL framework, used by elite sa
 
 > **Inspired by [Prep5](https://prep5.salesably.ai/)**, our AI-powered sales preparation platform. Visit [prep5.salesably.ai](https://prep5.salesably.ai/) for the full product with integrated research tools, CRM sync, and more.
 
+## What is this?
+
+This is a plugin for **Claude Code**, Anthropic's agentic command-line interface. It adds 9 specialized sales skills to Claude, allowing it to act as your personal sales strategist—qualifying deals, researching prospects, and preparing for calls with the rigor of a top performer.
+
+If you are new to Claude Code, [start here](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview).
+
 ## Installation
 
 ```bash

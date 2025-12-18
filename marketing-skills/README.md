@@ -10,6 +10,12 @@ Built on proven frameworks used to build audiences and drive revenue for modern 
 
 > **Inspired by [The Vibe Marketer](https://thevibemarketer.com)** — check them out for more marketing insights and strategies.
 
+## What is this?
+
+This is a plugin for **Claude Code**, Anthropic's agentic command-line interface. It adds 10 specialized marketing skills to Claude, allowing it to act as a strategic partner for your marketing team. 
+
+If you are new to Claude Code, [start here](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview).
+
 ## Recommended: Core Document Skills
 
 To get the most out of these marketing skills, we highly recommend adding Anthropic's core document skills. They are essential for generating and editing the actual files (briefs, slide decks, reports) that these skills help you create:
