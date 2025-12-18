@@ -232,6 +232,10 @@ Created by [Vidal Graupera](https://salesably.ai) for modern sales teams.
 
 Check out [Salesably.ai](https://salesably.ai) for more AI-powered sales and marketing tools.
 
+## Contributing
+
+Interested in adding a sales skill? See the [root contributing guide](../CONTRIBUTING.md).
+
 ## License
 
 MIT

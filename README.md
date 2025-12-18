@@ -89,6 +89,10 @@ The **MCP research tools** (Perplexity, Exa, Hunter, Apify) in the sales-skills 
 
 [Salesably.ai](https://salesably.ai) builds AI-powered tools for modern sales and marketing teams.
 
+## Contributing
+
+We welcome contributions to the Salesably Marketplace! Please see our [Contributing Guide](CONTRIBUTING.md) for instructions on how to add new skills, plugins, or improvements.
+
 ## Contact & Support
 
 - Website: [Salesably.ai](https://salesably.ai)
