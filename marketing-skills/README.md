@@ -10,6 +10,15 @@ Built on proven frameworks used to build audiences and drive revenue for modern 
 
 > **Inspired by [The Vibe Marketer](https://thevibemarketer.com)** — check them out for more marketing insights and strategies.
 
+## Recommended: Core Document Skills
+
+To get the most out of these marketing skills, we highly recommend adding Anthropic's core document skills. They are essential for generating and editing the actual files (briefs, slide decks, reports) that these skills help you create:
+
+- **DOCX**: Create and edit Word documents with formatting, comments, and tracked changes preserved.
+- **PPTX**: Generate and modify PowerPoint decks, including layouts, charts, and structured slide sections.
+- **XLSX**: Build and analyze Excel spreadsheets with formulas, tables, and charts.
+- **PDF**: Extract text, split/merge files, fill forms, and create new PDFs.
+
 ## Installation
 
 ```bash

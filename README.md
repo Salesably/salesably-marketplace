@@ -32,6 +32,15 @@ Built by [Salesably.ai](https://salesably.ai).
 
 3. **Restart Claude Code** to load the new skills.
 
+## Recommended: Core Document Skills
+
+To get the most out of these sales and marketing plugins, we highly recommend adding Anthropic's core document skills. They are essential for generating and editing the actual files (decks, spreadsheets, PDFs) that these skills strategize:
+
+- **DOCX**: Create and edit Word documents with formatting, comments, and tracked changes preserved.
+- **PPTX**: Generate and modify PowerPoint decks, including layouts, charts, and structured slide sections.
+- **XLSX**: Build and analyze Excel spreadsheets with formulas, tables, and charts.
+- **PDF**: Extract text, split/merge files, fill forms, and create new PDFs.
+
 ## Important: Skill Limits
 
 Claude Code has a token limit for displaying available skills. If you have many plugins installed, some skills may be truncated from the list and Claude won't automatically use them.
