@@ -11,6 +11,8 @@ This skill identifies unique, defensible market positions that make a brand memo
 
 Find the positioning angle that gives the brand unfair advantage: a market position competitors can't or won't copy, that resonates deeply with the target audience.
 
+**The Core Principle**: Effective positioning requires saying something a reasonable person could disagree with. If everyone in the category claims it, it's not a position—it's a table stake.
+
 ## Intake Questions
 
 Before exploring positioning frameworks, gather context:

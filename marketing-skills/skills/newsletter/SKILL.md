@@ -188,12 +188,10 @@ High-open-rate patterns:
 
 First 1-3 lines that prevent immediate delete:
 
-**Open with**:
-- A surprising statistic
-- A bold statement
-- A relatable frustration
-- A quick story hook
-- A direct question
+- **Say something disagreeable**: Challenge a common assumption in the first line.
+- **Specific examples**: Use a real-world scenario or name a specific tool/event.
+- **Human touch**: Include a "un-AI" statement (humor or a bold opinion).
+- **Relatable frustration**: Show you understand exactly what the reader is going through.
 
 **Avoid opening with**:
 - "Hope you're doing well!"

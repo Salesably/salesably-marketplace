@@ -100,10 +100,12 @@ Each platform has different requirements:
 
 ### LinkedIn
 - **Length**: Up to 3,000 characters
-- **Tone**: Professional but human
+- **Tone**: Professional but human, relatable, and opinionated
 - **Format**: Text posts, carousels, articles, video
-- **Best for**: B2B, thought leadership, career content
-- **Hook**: First 2-3 lines visible before "see more"
+- **Best for**: B2B, thought leadership, career content, personal branding
+- **Hook**: First 2 lines are critical before "...see more"
+- **Timing**: Tuesday–Thursday, 8–11 AM (audience's time zone)
+- **Links**: Place external links in the first comment, not the post body, to avoid algorithm penalties
 
 ### Instagram
 - **Length**: 2,200 characters (but shorter better)
@@ -132,6 +134,37 @@ Each platform has different requirements:
 - **Format**: Newsletter sections, standalone emails
 - **Best for**: Deeper engagement, conversions
 - **Hook**: Subject line + first line
+
+## Viral LinkedIn Post Framework (2025)
+
+When repurposing content for LinkedIn, follow this proven structure for maximum reach:
+
+### 1. The Scroll-Stopping Hook
+The first 2 lines must earn the click on "...see more".
+- **Stat/Data**: Start with a surprising number.
+- **Bold Opinion**: Challenge common wisdom in your niche.
+- **Personal Moment**: Share a vulnerable or relatable struggle.
+- **Unexpected Twist**: Start with a premise and flip it immediately.
+- **Avoid**: "Just wanted to share some thoughts..." or "I've been thinking about..."
+
+### 2. The Single Message Body
+Don't cram multiple ideas into one post.
+- **One Post, One Intent**: Stick to one story, one lesson, or one tip.
+- **Scannable Formatting**: Use 1–3 lines per paragraph max.
+- **Mobile-Friendly**: Use whitespace to make it easy to read on phones.
+- **Specifics**: Name tools, give real numbers, and use concrete examples.
+
+### 3. The Discussion-Starting CTA
+End with a prompt that invites conversation.
+- **Real Questions**: "Have you felt this same pressure?" or "What's one tool I missed?"
+- **Low Friction**: Make it easy for people to share their own experience.
+- **Avoid Engagement Bait**: Never use "Like if you agree" or "Comment 'YES' below".
+- **Optional CTA**: If the post is a heartfelt story, it's okay to skip the CTA entirely.
+
+### 4. Early Engagement Strategy
+LinkedIn's algorithm prioritizes posts that get traction in the first 60–90 minutes.
+- **Reply Immediately**: Engage with every comment in the first hour.
+- **Seed the Link**: If you have a link to share, post it as the first comment after publishing.
 
 ## Content Hierarchy
 
@@ -181,6 +214,11 @@ Pull from pillar content:
 - Stories/examples (all narratives)
 
 ### Step 3: Map to Platforms
+Assign elements to platforms based on the **AMA Framework**:
+- **Audience**: Who are we talking to on this specific platform? (Speak to one real person).
+- **Message**: What is the one key insight they need from this piece?
+- **Action**: What specific action should they take?
+
 Assign elements to platforms based on:
 - Platform format requirements
 - Audience on each platform

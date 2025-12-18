@@ -166,7 +166,13 @@ Technical elements to include:
 
 ## Natural Writing Principles
 
-Avoid these SEO writing mistakes:
+Avoid these SEO writing mistakes by applying human content standards:
+
+- **Say something disagreeable**: Don't just parrot consensus. Take a stand that a reasonable person could disagree with.
+- **Human-Led Outlines**: Always start with a human-designed outline that prioritizes the narrative arc over keyword placement.
+- **Inject "Un-AI" Statements**: Use humor, opinion, or unique perspectives that AI is unlikely to generate spontaneously.
+- **Radical Specificity**: Back up every point with specific, real-world examples or data points.
+- **Avoid Clichés**: If you find yourself using the same phrasing as every other article on the SERP, start over and find a different angle.
 
 | Over-Optimized (Bad) | Natural (Good) |
 |---------------------|----------------|

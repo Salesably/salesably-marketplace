@@ -7,6 +7,14 @@ description: Writes high-converting landing pages and sales copy using proven pa
 
 This skill creates copy that converts visitors into customers by combining strategic page architecture with time-tested persuasion principles—not templates or hacks.
 
+## The Core Conversion Framework: AMA
+
+With every single marketing asset, the priority is: **Audience > Message > Action**.
+
+1. **Audience**: Identify exactly who you are talking to. Bring a real person to mind (a persona) and imagine you are speaking directly to them.
+2. **Message**: What is the one key message they need to hear to move forward?
+3. **Action**: What specific action do you want them to take right now?
+
 ## Objective
 
 Write landing pages and sales copy that motivate immediate action by addressing objections, building desire, and making the next step irresistible.
