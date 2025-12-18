@@ -41,6 +41,18 @@ To get the most out of these sales and marketing plugins, we highly recommend ad
 - **XLSX**: Build and analyze Excel spreadsheets with formulas, tables, and charts.
 - **PDF**: Extract text, split/merge files, fill forms, and create new PDFs.
 
+### How to install:
+1. **Add the Anthropic marketplace:**
+   ```
+   /plugin marketplace add anthropics/skills
+   ```
+2. **Install the document skills:**
+   - Run `/plugin install`
+   - Select **Browse and install plugins**
+   - Select **anthropic-agent-skills**
+   - Select **document-skills**
+   - Select **Install now**
+
 ## Important: Skill Limits
 
 Claude Code has a token limit for displaying available skills. If you have many plugins installed, some skills may be truncated from the list and Claude won't automatically use them.

@@ -19,6 +19,18 @@ To get the most out of these marketing skills, we highly recommend adding Anthro
 - **XLSX**: Build and analyze Excel spreadsheets with formulas, tables, and charts.
 - **PDF**: Extract text, split/merge files, fill forms, and create new PDFs.
 
+### How to install:
+1. **Add the Anthropic marketplace:**
+   ```
+   /plugin marketplace add anthropics/skills
+   ```
+2. **Install the document skills:**
+   - Run `/plugin install`
+   - Select **Browse and install plugins**
+   - Select **anthropic-agent-skills**
+   - Select **document-skills**
+   - Select **Install now**
+
 ## Installation
 
 ```bash
