@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.jpeg" alt="Salesably Marketplace" width="400">
+</p>
+
 # Salesably Marketplace
 
 **Your unfair advantage in sales and marketing.**
