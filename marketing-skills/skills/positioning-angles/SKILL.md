@@ -5,13 +5,13 @@ description: Discovers differentiated market positioning using 8 proven framewor
 
 # Positioning Angles
 
-This skill identifies unique, defensible market positions that make a brand memorable and different—not just another option in a crowded category.
+This skill identifies unique, defensible market positions that make a brand memorable and different - not just another option in a crowded category.
 
 ## Objective
 
 Find the positioning angle that gives the brand unfair advantage: a market position competitors can't or won't copy, that resonates deeply with the target audience.
 
-**The Core Principle**: Effective positioning requires saying something a reasonable person could disagree with. If everyone in the category claims it, it's not a position—it's a table stake.
+**The Core Principle**: Effective positioning requires saying something a reasonable person could disagree with. If everyone in the category claims it, it's not a position - it's a table stake.
 
 ## Intake Questions
 

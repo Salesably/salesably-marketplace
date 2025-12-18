@@ -1,15 +1,15 @@
 ---
 name: seo-content
-description: Creates search-optimized articles that rank well and read naturally for humans. This skill should be used when writing blog posts, pillar content, guides, or any content where organic search traffic is a goal—balancing search engine requirements with genuine reader value.
+description: Creates search-optimized articles that rank well and read naturally for humans. This skill should be used when writing blog posts, pillar content, guides, or any content where organic search traffic is a goal - balancing search engine requirements with genuine reader value.
 ---
 
 # SEO Content
 
-This skill creates content that ranks on Google while actually being worth reading—not keyword-stuffed garbage that tricks algorithms but bores humans.
+This skill creates content that ranks on Google while actually being worth reading - not keyword-stuffed garbage that tricks algorithms but bores humans.
 
 ## Objective
 
-Write content that satisfies search intent, demonstrates expertise, and earns rankings through genuine value—not manipulation.
+Write content that satisfies search intent, demonstrates expertise, and earns rankings through genuine value - not manipulation.
 
 ## Intake Questions
 
@@ -108,12 +108,13 @@ Hook readers and search engines in the first 100 words:
 - Short sentences (under 20 words average)
 - Active voice preferred
 - Avoid jargon unless audience expects it
+- **No Em-Dashes**: Never use em-dashes (—) or en-dashes (–). Use hyphens (-) or other punctuation.
 
 **Semantic coverage**:
 - Cover related topics/entities Google expects
 - Answer "People Also Ask" questions
 - Include synonyms and related terms naturally
-- Don't keyword stuff—write for humans
+- Don't keyword stuff - write for humans
 
 ### Conclusion Structure
 End strong with:

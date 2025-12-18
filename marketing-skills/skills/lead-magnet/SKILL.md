@@ -5,7 +5,7 @@ description: Creates high-converting lead magnets with compelling hooks, strateg
 
 # Lead Magnet
 
-This skill creates irresistible opt-in offers that attract qualified leads—people who will eventually become customers, not just freebie seekers.
+This skill creates irresistible opt-in offers that attract qualified leads - people who will eventually become customers, not just freebie seekers.
 
 ## Objective
 
@@ -15,7 +15,7 @@ Design lead magnets that solve a specific, urgent problem for the target audienc
 
 Before creating a lead magnet, gather context:
 
-1. **Target audience**: Who exactly should opt in? (Be specific—job title, situation, goal)
+1. **Target audience**: Who exactly should opt in? (Be specific - job title, situation, goal)
 2. **Main pain point**: What single problem keeps them up at night?
 3. **Desired transformation**: What does success look like for them?
 4. **Buyer qualification**: What indicates someone is a good fit for your paid offer?
@@ -44,7 +44,7 @@ Great lead magnets have irresistible hooks. Use these formulas:
 - "Use my proven pitch deck structure"
 
 ### 3. The Checklist
-"Never forget [important thing] again—the complete [topic] checklist"
+"Never forget [important thing] again - the complete [topic] checklist"
 
 **Examples**:
 - "The pre-launch checklist used by 6-figure course creators"
@@ -60,7 +60,7 @@ Great lead magnets have irresistible hooks. Use these formulas:
 - "Find your ideal pricing in 5 minutes"
 
 ### 5. The Resource List
-"The [number] best [resources] for [goal]—curated by an expert"
+"The [number] best [resources] for [goal] - curated by an expert"
 
 **Examples**:
 - "87 tools I use to run my 7-figure business"
@@ -68,7 +68,7 @@ Great lead magnets have irresistible hooks. Use these formulas:
 - "Top 50 AI prompts for marketers"
 
 ### 6. The Case Study/Breakdown
-"How [specific person/company] achieved [impressive result]—step by step"
+"How [specific person/company] achieved [impressive result] - step by step"
 
 **Examples**:
 - "How I went from 0 to 10K subscribers in 90 days"

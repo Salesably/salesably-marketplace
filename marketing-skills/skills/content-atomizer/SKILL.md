@@ -5,7 +5,7 @@ description: Repurposes single content pieces into multiple formats for maximum 
 
 # Content Atomizer
 
-This skill extracts maximum value from every piece of content by strategically repurposing it across formats and platforms—without losing quality or sounding repetitive.
+This skill extracts maximum value from every piece of content by strategically repurposing it across formats and platforms - without losing quality or sounding repetitive.
 
 ## Objective
 
@@ -104,7 +104,7 @@ Each platform has different requirements:
 - **Format**: Text posts, carousels, articles, video
 - **Best for**: B2B, thought leadership, career content, personal branding
 - **Hook**: First 2 lines are critical before "...see more"
-- **Timing**: Tuesday–Thursday, 8–11 AM (audience's time zone)
+- **Timing**: Tuesday-Thursday, 8-11 AM (audience's time zone)
 - **Links**: Place external links in the first comment, not the post body, to avoid algorithm penalties
 
 ### Instagram
@@ -150,7 +150,7 @@ The first 2 lines must earn the click on "...see more".
 ### 2. The Single Message Body
 Don't cram multiple ideas into one post.
 - **One Post, One Intent**: Stick to one story, one lesson, or one tip.
-- **Scannable Formatting**: Use 1–3 lines per paragraph max.
+- **Scannable Formatting**: Use 1-3 lines per paragraph max.
 - **Mobile-Friendly**: Use whitespace to make it easy to read on phones.
 - **Specifics**: Name tools, give real numbers, and use concrete examples.
 
@@ -162,7 +162,7 @@ End with a prompt that invites conversation.
 - **Optional CTA**: If the post is a heartfelt story, it's okay to skip the CTA entirely.
 
 ### 4. Early Engagement Strategy
-LinkedIn's algorithm prioritizes posts that get traction in the first 60–90 minutes.
+LinkedIn's algorithm prioritizes posts that get traction in the first 60-90 minutes.
 - **Reply Immediately**: Engage with every comment in the first hour.
 - **Seed the Link**: If you have a link to share, post it as the first comment after publishing.
 
@@ -245,6 +245,7 @@ When atomizing, maintain brand voice:
 - [ ] Matching energy level (enthusiastic, measured)
 - [ ] Aligned values and opinions
 - [ ] Recognizable style markers
+- [ ] **No Em-Dashes**: Ensure no em-dashes (—) or en-dashes (–) are used in any platform derivatives.
 
 **Adaptation allowed**:
 - Tone can flex slightly for platform (more casual on TikTok, more professional on LinkedIn)

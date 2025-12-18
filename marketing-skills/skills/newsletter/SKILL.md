@@ -5,7 +5,7 @@ description: Creates engaging newsletters using 9 proven formats for recurring a
 
 # Newsletter
 
-This skill creates newsletters people actually want to read—not just promotional blasts that get ignored or unsubscribed from.
+This skill creates newsletters people actually want to read - not just promotional blasts that get ignored or unsubscribed from.
 
 ## Objective
 
@@ -39,7 +39,7 @@ Collect the best resources, articles, and tools on a topic so readers don't have
 **Example**: "The best marketing reads from this week, so you don't have to scroll Twitter."
 
 ### 2. Original Essay
-Long-form thinking on a single topic—your perspective, insights, or argument.
+Long-form thinking on a single topic - your perspective, insights, or argument.
 
 **Structure**:
 - Hook: Surprising opening
@@ -52,7 +52,7 @@ Long-form thinking on a single topic—your perspective, insights, or argument.
 **Example**: "Why I think content marketing is dead (and what's replacing it)"
 
 ### 3. Story-Driven
-Narrative format with a lesson embedded—personal stories, customer stories, or observations.
+Narrative format with a lesson embedded - personal stories, customer stories, or observations.
 
 **Structure**:
 - Set the scene
@@ -192,6 +192,7 @@ First 1-3 lines that prevent immediate delete:
 - **Specific examples**: Use a real-world scenario or name a specific tool/event.
 - **Human touch**: Include a "un-AI" statement (humor or a bold opinion).
 - **Relatable frustration**: Show you understand exactly what the reader is going through.
+- **No Em-Dashes**: Never use em-dashes (—) or en-dashes (–) in the content.
 
 **Avoid opening with**:
 - "Hope you're doing well!"

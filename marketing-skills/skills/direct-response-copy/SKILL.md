@@ -5,7 +5,7 @@ description: Writes high-converting landing pages and sales copy using proven pa
 
 # Direct Response Copy
 
-This skill creates copy that converts visitors into customers by combining strategic page architecture with time-tested persuasion principles—not templates or hacks.
+This skill creates copy that converts visitors into customers by combining strategic page architecture with time-tested persuasion principles - not templates or hacks.
 
 ## The Core Conversion Framework: AMA
 
@@ -37,7 +37,7 @@ Before writing conversion copy, gather context:
 Structure landing pages in this proven sequence:
 
 ### 1. Hero Section
-The first screen—make or break moment.
+The first screen - make or break moment.
 
 **Elements**:
 - **Headline**: The big promise or transformation (see headline formulas below)
@@ -124,7 +124,7 @@ Make the ask with urgency.
 Weave these throughout the page:
 
 ### 1. Reciprocity
-Give value first—free guides, tools, insights.
+Give value first - free guides, tools, insights.
 *"Here's a free training on X before you decide..."*
 
 ### 2. Commitment & Consistency
@@ -195,6 +195,9 @@ Specific copy beats generic copy. Always choose:
 | "Fast results" | "See results in 14 days" |
 | "Expert team" | "23 years combined experience" |
 | "Affordable" | "$49/month (less than $2/day)" |
+
+## Punctuation & Style Rules
+- **No Em-Dashes**: Do not use em-dashes (—) or en-dashes (–) in any copy. Use hyphens (-), colons, or parentheses instead.
 
 ## Output Format
 

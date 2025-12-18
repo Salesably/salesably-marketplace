@@ -5,7 +5,7 @@ description: Content planning framework using the 6 Circles Method for identifyi
 
 # Keyword Research
 
-This skill identifies high-value content opportunities by finding the intersection of audience interest, business value, and market opportunity—without requiring expensive SEO tools.
+This skill identifies high-value content opportunities by finding the intersection of audience interest, business value, and market opportunity - without requiring expensive SEO tools.
 
 ## Objective
 

@@ -5,7 +5,7 @@ description: Creates automated email sequences for every stage of the customer j
 
 # Email Sequences
 
-This skill creates automated email sequences that move subscribers through the customer journey—from stranger to subscriber to customer to advocate.
+This skill creates automated email sequences that move subscribers through the customer journey - from stranger to subscriber to customer to advocate.
 
 ## Objective
 
@@ -176,7 +176,7 @@ Each email should follow this structure:
 
 ### P.S.
 - Second CTA or curiosity hook
-- High readership area—use it
+- High readership area - use it
 
 ## Timing & Spacing Guidelines
 
@@ -207,7 +207,7 @@ Advanced automation based on behavior:
 When creating email sequences, deliver:
 
 1. **Sequence Map**: Visual flow showing triggers and emails
-2. **Email Briefs**: For each email—goal, subject options, key points
+2. **Email Briefs**: For each email - goal, subject options, key points
 3. **Full Email Copy**: Complete copy for each email in sequence
 4. **Timing Schedule**: When each email sends
 5. **Success Metrics**: What to track (opens, clicks, conversions)

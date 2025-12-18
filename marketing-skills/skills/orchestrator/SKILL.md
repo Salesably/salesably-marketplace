@@ -5,7 +5,7 @@ description: Diagnoses marketing needs and sequences appropriate skills for comp
 
 # Orchestrator
 
-This skill acts as a routing system for marketing projects—diagnosing needs, recommending the right skills, and sequencing them for comprehensive campaign execution.
+This skill acts as a routing system for marketing projects - diagnosing needs, recommending the right skills, and sequencing them for comprehensive campaign execution.
 
 ## Objective
 
