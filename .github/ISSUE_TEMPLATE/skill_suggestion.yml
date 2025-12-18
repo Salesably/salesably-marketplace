@@ -1,0 +1,29 @@
+name: Skill Suggestion
+description: Suggest a new sales or marketing skill for the marketplace
+labels: ["new-skill"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new skill! We love expanding the marketplace.
+  - type: input
+    id: skill_name
+    attributes:
+      label: Skill Name
+      placeholder: e.g., Podcast Guest Prep
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: What problem does this skill solve and when should it be triggered?
+    validations:
+      required: true
+  - type: textarea
+    id: framework
+    attributes:
+      label: Proposed Framework
+      placeholder: Describe the steps, checklists, or methodologies this skill should include.
+    validations:
+      required: true

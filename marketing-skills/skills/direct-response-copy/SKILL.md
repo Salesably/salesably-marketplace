@@ -197,7 +197,7 @@ Specific copy beats generic copy. Always choose:
 | "Affordable" | "$49/month (less than $2/day)" |
 
 ## Punctuation & Style Rules
-- **No Em-Dashes**: Do not use em-dashes (—) or en-dashes (–) in any copy. Use hyphens (-), colons, or parentheses instead.
+- **No Em-Dashes**: Do not use em-dashes (-) or en-dashes (-) in any copy. Use hyphens (-), colons, or parentheses instead.
 
 ## Output Format
 

@@ -9,7 +9,7 @@ This skill creates comprehensive prospect profiles ("knowledge capsules") that g
 
 ## Objective
 
-Build deep understanding of individual prospects—their background, role, priorities, and connection points—to enable personalized outreach and meaningful conversations.
+Build deep understanding of individual prospects-their background, role, priorities, and connection points-to enable personalized outreach and meaningful conversations.
 
 ## Research Dimensions
 

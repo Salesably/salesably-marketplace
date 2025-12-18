@@ -1,0 +1,29 @@
+name: Bug Report
+description: File a bug report for an existing skill or plugin
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please describe the issue you're experiencing with a skill or plugin.
+  - type: input
+    id: skill_name
+    attributes:
+      label: Affected Skill/Plugin
+      placeholder: e.g., content-atomizer
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Current Behavior
+      placeholder: What is happening?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      placeholder: What should happen instead?
+    validations:
+      required: true

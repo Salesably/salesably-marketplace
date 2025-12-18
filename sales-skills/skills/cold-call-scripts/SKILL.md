@@ -9,7 +9,7 @@ This skill creates personalized, effective cold call scripts using a proven 5-st
 
 ## Objective
 
-Generate compelling cold call scripts that feel natural, highlight your value proposition, and move prospects toward a next step—while avoiding the common pitfalls that get calls hung up.
+Generate compelling cold call scripts that feel natural, highlight your value proposition, and move prospects toward a next step-while avoiding the common pitfalls that get calls hung up.
 
 ## The 5-Step Cold Call Framework
 
@@ -104,7 +104,7 @@ Determine if there's a fit through strategic questions.
 - Ask no more than 2-3 questions
 - Listen more than you talk
 - Take notes on their answers
-- Don't interrogate—have a conversation
+- Don't interrogate-have a conversation
 
 ### Step 5: Close / Call to Action
 Ask for a specific next step.
@@ -133,7 +133,7 @@ Ask for a specific next step.
 - Use contractions (don't, can't, we're)
 - Avoid corporate buzzwords (synergy, leverage, innovative)
 - Speak like you would to a colleague
-- Pause for responses—don't monologue
+- Pause for responses-don't monologue
 
 ### Be Confident, Not Apologetic
 - Never apologize for calling
@@ -156,19 +156,19 @@ Ask for a specific next step.
 ## Common Objection Responses
 
 ### "I'm busy right now"
-"Totally understand—when would be a better time for a quick 5-minute conversation?"
+"Totally understand-when would be a better time for a quick 5-minute conversation?"
 
 ### "Just send me an email"
 "Happy to do that. So I can send something relevant, quick question: [qualification question]?"
 
 ### "We already have a solution"
-"Got it—most companies I talk to do. Just curious, how's that working for you? Any gaps?"
+"Got it-most companies I talk to do. Just curious, how's that working for you? Any gaps?"
 
 ### "We don't have budget"
 "Appreciate the transparency. Many customers come to us when they're planning next quarter. When does your next budget cycle start?"
 
 ### "I'm not the right person"
-"No problem—who should I be talking to about [specific area]? I'll make sure not to bother you again."
+"No problem-who should I be talking to about [specific area]? I'll make sure not to bother you again."
 
 ## Output Format
 

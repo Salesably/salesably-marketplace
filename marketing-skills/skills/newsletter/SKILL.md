@@ -192,7 +192,7 @@ First 1-3 lines that prevent immediate delete:
 - **Specific examples**: Use a real-world scenario or name a specific tool/event.
 - **Human touch**: Include a "un-AI" statement (humor or a bold opinion).
 - **Relatable frustration**: Show you understand exactly what the reader is going through.
-- **No Em-Dashes**: Never use em-dashes (—) or en-dashes (–) in the content.
+- **No Em-Dashes**: Never use em-dashes (-) or en-dashes (-) in the content.
 
 **Avoid opening with**:
 - "Hope you're doing well!"

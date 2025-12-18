@@ -5,7 +5,7 @@ description: Diagnoses sales needs and sequences appropriate skills for comprehe
 
 # Sales Orchestrator
 
-This skill acts as a routing system for sales activities—diagnosing needs, recommending the right skills, and sequencing them for effective deal execution.
+This skill acts as a routing system for sales activities-diagnosing needs, recommending the right skills, and sequencing them for effective deal execution.
 
 ## Objective
 

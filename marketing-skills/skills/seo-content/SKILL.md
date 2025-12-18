@@ -108,7 +108,7 @@ Hook readers and search engines in the first 100 words:
 - Short sentences (under 20 words average)
 - Active voice preferred
 - Avoid jargon unless audience expects it
-- **No Em-Dashes**: Never use em-dashes (—) or en-dashes (–). Use hyphens (-) or other punctuation.
+- **No Em-Dashes**: Never use em-dashes (-) or en-dashes (-). Use hyphens (-) or other punctuation.
 
 **Semantic coverage**:
 - Cover related topics/entities Google expects

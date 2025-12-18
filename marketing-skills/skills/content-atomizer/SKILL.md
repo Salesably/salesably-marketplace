@@ -245,7 +245,7 @@ When atomizing, maintain brand voice:
 - [ ] Matching energy level (enthusiastic, measured)
 - [ ] Aligned values and opinions
 - [ ] Recognizable style markers
-- [ ] **No Em-Dashes**: Ensure no em-dashes (—) or en-dashes (–) are used in any platform derivatives.
+- [ ] **No Em-Dashes**: Ensure no em-dashes (-) or en-dashes (-) are used in any platform derivatives.
 
 **Adaptation allowed**:
 - Tone can flex slightly for platform (more casual on TikTok, more professional on LinkedIn)

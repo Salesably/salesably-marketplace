@@ -27,7 +27,7 @@ Brief greeting that acknowledges the conversation.
 - Restating obvious facts ("As we discussed...")
 
 ### 2. Next Steps Section
-The most important part—clear action items.
+The most important part-clear action items.
 
 **Format:**
 ```
@@ -197,7 +197,7 @@ As promised, attached is the proposal we discussed. Here's a quick summary:
 - [Their action] - Review and share feedback by [date]
 - [Your action] - [Any follow-up you're doing]
 
-Happy to walk through any questions—just let me know.
+Happy to walk through any questions-just let me know.
 
 Best,
 [Your name]

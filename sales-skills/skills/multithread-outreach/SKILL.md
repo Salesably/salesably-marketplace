@@ -9,7 +9,7 @@ This skill creates tailored outreach messages for different stakeholders within 
 
 ## Objective
 
-Generate personalized, role-appropriate messages for various stakeholders in a deal—ensuring each person receives communication relevant to their priorities while maintaining consistent core messaging.
+Generate personalized, role-appropriate messages for various stakeholders in a deal-ensuring each person receives communication relevant to their priorities while maintaining consistent core messaging.
 
 ## Why Multithreading Matters
 
@@ -147,7 +147,7 @@ Key discussion points:
 Given your focus on [their area], I thought [specific aspect]
 might be particularly relevant to you.
 
-Happy to give you a brief overview if helpful—or simply keep
+Happy to give you a brief overview if helpful-or simply keep
 you in the loop as we progress. What works best?
 
 Best,
@@ -196,7 +196,7 @@ to address [business challenge]. Your team has identified
 Based on similar situations with [comparable company], we've
 seen [quantified result] through [your approach].
 
-I've been working with [their direct report] on the details—
+I've been working with [their direct report] on the details-
 happy to provide an executive briefing if helpful as this
 moves toward a decision.
 
