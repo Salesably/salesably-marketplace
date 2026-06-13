@@ -21,6 +21,7 @@ Built by [Salesably.ai](https://salesably.ai).
 
 | Plugin | Description |
 |--------|-------------|
+| **[hermes-tweet](./hermes-tweet)** | Hermes Agent workflows for X/Twitter research, social listening, and guarded posting |
 | **[marketing-skills](./marketing-skills)** | 10 specialized marketing skills: brand voice, positioning, content strategy, copywriting, and distribution |
 | **[sales-skills](./sales-skills)** | 9 specialized sales skills: deal qualification, prospect research, call preparation, and stakeholder engagement |
 
@@ -33,6 +34,7 @@ Built by [Salesably.ai](https://salesably.ai).
 
 2. **Install a plugin:**
    ```
+   /plugin install hermes-tweet
    /plugin install marketing-skills
    /plugin install sales-skills
    ```
@@ -73,7 +75,7 @@ Claude Code has a token limit for displaying available skills. If you have many 
 - Explicitly invoke skills by name: `use the sales-skills:powerful-framework skill`
 - Keep your most important plugins installed and remove others
 
-This marketplace adds 19 skills total (10 marketing + 9 sales). If you have many other plugins, consider which ones you need most.
+This marketplace adds 20 skills total (1 Hermes Tweet + 10 marketing + 9 sales). If you have many other plugins, consider which ones you need most.
 
 ## Claude Desktop Users
 

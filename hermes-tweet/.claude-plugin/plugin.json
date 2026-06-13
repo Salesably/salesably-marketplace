@@ -1,0 +1,22 @@
+{
+    "name": "hermes-tweet",
+    "version": "1.0.0",
+    "description": "Hermes Agent workflows for X/Twitter research, social listening, and guarded posting for sales and marketing teams.",
+    "author": {
+        "name": "Xquik-dev"
+    },
+    "homepage": "https://github.com/Xquik-dev/hermes-tweet",
+    "repository": "https://github.com/Xquik-dev/hermes-tweet",
+    "license": "MIT",
+    "keywords": [
+        "hermes-agent",
+        "twitter",
+        "x",
+        "social-media",
+        "social-listening",
+        "sales",
+        "marketing",
+        "automation"
+    ],
+    "skills": "./skills"
+}
