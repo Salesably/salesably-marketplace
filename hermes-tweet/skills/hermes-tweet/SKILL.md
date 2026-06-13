@@ -1,6 +1,6 @@
 ---
 name: hermes-tweet
-description: Use this skill when planning X/Twitter research, social listening, campaign monitoring, prospect context, or guarded social action workflows through the Hermes Tweet Hermes Agent plugin.
+description: Use this skill when planning X/Twitter research, social listening, campaign monitoring, prospect context, or guarded social action workflows through the Hermes Tweet plugin for Hermes Agent.
 ---
 
 # Hermes Tweet
