@@ -1,24 +1,31 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "salesably-marketplace",
-  "version": "1.0.0",
-  "description": "Sales and marketing skills for Claude Code by Salesably.ai",
-  "owner": {
-    "name": "Vidal Graupera",
-    "email": "vidal@salesably.ai"
-  },
-  "plugins": [
-    {
-      "name": "marketing-skills",
-      "description": "10 specialized marketing skills: brand voice, positioning, content strategy, copywriting, and distribution.",
-      "source": "./marketing-skills",
-      "category": "marketing"
+    "name": "salesably-marketplace",
+    "owner": {
+        "name": "Vidal Graupera",
+        "email": "vidal@salesably.ai"
     },
-    {
-      "name": "sales-skills",
-      "description": "9 specialized sales skills: deal qualification, prospect research, call preparation, and stakeholder engagement.",
-      "source": "./sales-skills",
-      "category": "sales"
-    }
-  ]
+    "metadata": {
+        "description": "Sales and marketing skills for Claude Code by Salesably.ai",
+        "version": "1.0.0"
+    },
+    "plugins": [
+        {
+            "name": "hermes-tweet",
+            "description": "Hermes Agent workflows for X/Twitter research, social listening, and guarded posting for sales and marketing teams.",
+            "source": "./hermes-tweet",
+            "category": "marketing"
+        },
+        {
+            "name": "marketing-skills",
+            "description": "10 specialized marketing skills: brand voice, positioning, content strategy, copywriting, and distribution.",
+            "source": "./marketing-skills",
+            "category": "marketing"
+        },
+        {
+            "name": "sales-skills",
+            "description": "9 specialized sales skills: deal qualification, prospect research, call preparation, and stakeholder engagement.",
+            "source": "./sales-skills",
+            "category": "sales"
+        }
+    ]
 }
