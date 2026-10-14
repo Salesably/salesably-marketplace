@@ -14,6 +14,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Recommendations and instructions for Anthropic core document skills.
 - Basic validation principles for marketplace maintenance.
 
+### Fixed
+- `sales-skills` MCP servers for Perplexity, Apify and Hunter pointed at npm packages that do not exist (`@anthropic/mcp-server-perplexity`, `@anthropic/mcp-server-apify`, and the generic `@anthropic/mcp-server-fetch` for Hunter), so they never connected. They now use each vendor's official server: `@perplexity-ai/mcp-server`, `@apify/actors-mcp-server` (still read from `APIFY_API_TOKEN`), and Hunter's hosted server at `https://mcp.hunter.io/mcp`.
+
 ### Changed
 - Enhanced marketing skills with viral LinkedIn frameworks (2025).
 - Improved SEO content instructions to prioritize human-led outlines and narrative arcs.

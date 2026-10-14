@@ -3,7 +3,7 @@
   "mcpServers": {
     "perplexity": {
       "command": "npx",
-      "args": ["-y", "@anthropic/mcp-server-perplexity"],
+      "args": ["-y", "@perplexity-ai/mcp-server"],
       "env": {
         "PERPLEXITY_API_KEY": "${PERPLEXITY_API_KEY}"
       },
@@ -19,17 +19,17 @@
     },
     "apify": {
       "command": "npx",
-      "args": ["-y", "@anthropic/mcp-server-apify"],
+      "args": ["-y", "@apify/actors-mcp-server"],
       "env": {
-        "APIFY_API_TOKEN": "${APIFY_API_TOKEN}"
+        "APIFY_TOKEN": "${APIFY_API_TOKEN}"
       },
       "disabled": true
     },
     "hunter": {
-      "command": "npx",
-      "args": ["-y", "@anthropic/mcp-server-fetch"],
-      "env": {
-        "HUNTER_API_KEY": "${HUNTER_API_KEY}"
+      "type": "http",
+      "url": "https://mcp.hunter.io/mcp",
+      "headers": {
+        "X-API-KEY": "${HUNTER_API_KEY}"
       },
       "disabled": true
     }

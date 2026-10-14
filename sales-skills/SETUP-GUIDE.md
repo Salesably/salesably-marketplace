@@ -248,7 +248,7 @@ After setting up your API keys, you need to enable the tools in the plugin.
 ```json
 "perplexity": {
   "command": "npx",
-  "args": ["-y", "@anthropic/mcp-server-perplexity"],
+  "args": ["-y", "@perplexity-ai/mcp-server"],
   "env": {
     "PERPLEXITY_API_KEY": "${PERPLEXITY_API_KEY}"
   },
@@ -421,7 +421,7 @@ If the file is empty or doesn't exist, create it with this content. If it exists
   "mcpServers": {
     "perplexity": {
       "command": "npx",
-      "args": ["-y", "@anthropic/mcp-server-perplexity"],
+      "args": ["-y", "@perplexity-ai/mcp-server"],
       "env": {
         "PERPLEXITY_API_KEY": "pplx-your-key-here"
       }
@@ -435,16 +435,13 @@ If the file is empty or doesn't exist, create it with this content. If it exists
     },
     "hunter": {
       "command": "npx",
-      "args": ["-y", "@anthropic/mcp-server-fetch"],
-      "env": {
-        "HUNTER_API_KEY": "your-hunter-key-here"
-      }
+      "args": ["-y", "mcp-remote", "https://mcp.hunter.io/mcp", "--header", "X-API-KEY:your-hunter-key-here"]
     },
     "apify": {
       "command": "npx",
-      "args": ["-y", "@anthropic/mcp-server-apify"],
+      "args": ["-y", "@apify/actors-mcp-server"],
       "env": {
-        "APIFY_API_TOKEN": "your-apify-token-here"
+        "APIFY_TOKEN": "your-apify-token-here"
       }
     }
   }
